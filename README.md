@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2NWZ4bDZldXJobDRrMm1kMjJuNzd4ZHhxbG9pM2JnbzUya3RhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUvAQg/giphy.gif" width="600"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY2NWZ4bDZldXJobDRrMm1kMjJuNzd4ZHhxbG9pM2JnbzUya3RhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUvAQg/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,12 +12,13 @@
 </div>
 
 <div id="greeting" align="center">
-    <h2>Hi there 👋, I'm Andrew</h2>
+    <h2>Hi there, I'm Andrew</h2>
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-### I'm a QA Automation Engineer with expertise in Python. 
+### I'm a QA Automation Engineer with expertise in Python.👩‍💻 
 
-#### 👩‍💻 
+#### 
 My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
 
