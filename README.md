@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://bund322.github.io/portfolio/" target="_blank">Aleksandr</a> 
+<h1 align="center">Hi there, I'm <a href="https://goo.su/Fkb9ti" target="_blank">Andrew</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!-- <h1 align="center">Hi there, I'm Andrew</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
