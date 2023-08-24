@@ -12,8 +12,7 @@
 </div>
 
 <div id="greeting" align="center">
-    <h2>Hi there, I'm Andrew</h2>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h2>Hi there, I'm Andrew</h2><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
 ### I'm a QA Automation Engineer with expertise in Python.👩‍💻 
