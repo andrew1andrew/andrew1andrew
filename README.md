@@ -11,9 +11,9 @@
   </a>
 </div>
 
-<div id="greeting" align="center">
-    <h2>Hi there, I'm Andrew</h2><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-</div>
+<h1 align="center">Hi there, I'm Andrew</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 ### I'm a QA Automation Engineer with expertise in Python.👩‍💻 
 
