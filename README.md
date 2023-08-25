@@ -22,10 +22,13 @@
 My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
 
+---
+
 #### 🐍 My projects:
 * [Test automation project for Google search engine](https://github.com/andrew1andrew/UISeleniumTests)
 * [Business card website written in the django framework](https://goo.su/Fkb9ti)
 
+---
 
 <a name="MyToolsAndTechnologies"><h2>:trophy: My tools and technologies</h2></a>
 <p  align="center">
