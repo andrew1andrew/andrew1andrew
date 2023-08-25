@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 I'm a QA Automation Engineer with expertise in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--:zap: My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
+<br>:zap: My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
 
 ---
