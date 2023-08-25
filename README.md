@@ -22,16 +22,14 @@
 My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
 
----
 
 #### 🐍 My projects:
 * [Test automation project for Google search engine](https://github.com/andrew1andrew/UISeleniumTests)
 * [Business card website written in the django framework](https://goo.su/Fkb9ti)
 
----
 
-<a name="MyToolsAndTechnologies"><h2>:trophy: My tools and technologies</h2></a>
 <p  align="center">
+<a name="MyToolsAndTechnologies"><h2>:trophy: My tools and technologies</h2></a>
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right:20px" alt="python" width="50" height="50"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" style="margin-right:20px" alt="pycharm" width="50" height="50"/> </a>
