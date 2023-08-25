@@ -15,13 +15,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <!-- <h1 align="center">Hi there, I'm Andrew</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
-
-### I'm a QA Automation Engineer with expertise in Python.👩‍💻 
-
-#### 
-My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
+### :woman_technologist: About Me :
+I'm a QA Automation Engineer with expertise in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :zap: My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
 
+---
 
 #### 🐍 My projects:
 * [Test automation project for Google search engine](https://github.com/andrew1andrew/UISeleniumTests)
