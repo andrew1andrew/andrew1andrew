@@ -22,7 +22,7 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 
 ---
 
-#### 🐍 My projects:
+### :fire: My projects:
 * [Test automation project for Google search engine](https://github.com/andrew1andrew/UISeleniumTests)
 * [Business card website written in the django framework](https://goo.su/Fkb9ti)
 
