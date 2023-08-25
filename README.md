@@ -28,8 +28,8 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 
 ---
 
-<p  align="center">
-<a name="MyToolsAndTechnologies"><h2>:trophy: My tools and technologies</h2></a>
+### :hammer_and_wrench: My tools and technologies:
+<div>
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right:20px" alt="python" width="50" height="50"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" style="margin-right:20px" alt="pycharm" width="50" height="50"/> </a>
@@ -38,4 +38,4 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 <a href="https://github.com/allure-framework" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" style="margin-right:20px" alt="allure" width="50" height="50"/> </a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" style="margin-right:20px" alt="pycharm" width="50" height="50"/> </a>
 <a href="https://web.telegram.org/k/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" style="margin-right:20px" alt="pycharm" width="50" height="50"/> </a> </p>
-
+</div>
