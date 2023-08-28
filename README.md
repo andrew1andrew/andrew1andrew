@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm <a href="https://goo.su/Fkb9ti" target="_blank">Andrew</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!-- <h1 align="center">Hi there, I'm Andrew</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrew-zheleznyak-6037a6282/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,10 +10,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-<h1 align="center">Hi there, I'm <a href="https://goo.su/Fkb9ti" target="_blank">Andrew</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h1 align="center">Hi there, I'm Andrew</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
 ### :woman_technologist: About Me :
 I'm a QA Automation Engineer with expertise in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
