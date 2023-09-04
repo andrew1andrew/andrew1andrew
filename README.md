@@ -37,7 +37,7 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/atlassian-icon-2048x2047-5zqlyyxr.png" style="margin-right:20px" alt="atlassian" width="50" height="50"/> </a>
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_devtools_browser_logo_icon_153005.png" style="margin-right:20px" alt="devtools" width="50" height="50"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="margin-right:20px" alt="github" width="50" height="50"/> </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2023/04/Ubuntu-logo.png" style="margin-right:20px" alt="ubuntu" width="50" height="50"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" style="margin-right:20px" alt="ubuntu" width="50" height="50"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="margin-right:20px" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="https://journeyofthegeekcom.files.wordpress.com/2019/08/images.png" style="margin-right:20px" alt="postman" width="50" height="50"/> </a> </p>
 </div>
