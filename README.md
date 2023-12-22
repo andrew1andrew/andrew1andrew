@@ -21,6 +21,7 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 ### :fire: My projects:
 * [Test automation project for Google search engine](https://github.com/andrew1andrew/UISeleniumTests)
 * [Business card website written in the django framework](https://andrew1andrew.github.io/DjangoProject/project/main/templates/main/index.html)
+* [Testing an online book store based on the completed course on the "Stepik" portal](https://github.com/andrew1andrew/StepikCourseTestAutomation)
 
 ---
 
