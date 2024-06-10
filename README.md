@@ -11,7 +11,7 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### 🧒: About Me :
 I'm a QA Automation Engineer with expertise in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>:zap: My expertise in test automation enables me to deliver high-quality products and enhance development team performance. 
 I am committed to continuous self-improvement and leveraging cutting-edge testing methodologies to ensure impeccable user experiences.
@@ -43,3 +43,9 @@ I am committed to continuous self-improvement and leveraging cutting-edge testin
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="margin-right:20px" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.telerik.com/fiddler" target="_blank" rel="noreferrer"> <img src="https://journeyofthegeekcom.files.wordpress.com/2019/08/images.png" style="margin-right:20px" alt="postman" width="50" height="50"/> </a> </p>
 </div>
+
+---
+### 👨‍💻: Code wars:
+<p align="left"> <a href="https://www.codewars.com/users/andrew1andrew/stats" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/andrew1andrew/badges/large"/> </a> 
+
+
